@@ -6,4 +6,6 @@ File & Directory Management
 mkdir: Creates a brand new directory.
 touch: Creates a blank text file or updates the timestamp of an existing file.
 cp: Copies files or directories. Use cp -r to copy folders recursively.
-mv: Moves or renames files and directories.rm: Deletes a file permanently. Use rm -rf to forcefully delete an entire folder and its contents.nano / vim: Opens text editors directly within your terminal window to modify script files.
+mv: Moves or renames files and directories.
+rm: Deletes a file permanently. Use rm -rf to forcefully delete an entire folder and its contents.
+nano / vim: Opens text editors directly within your terminal window to modify script files.
