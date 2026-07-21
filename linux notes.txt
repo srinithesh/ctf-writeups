@@ -1,3 +1,3 @@
-cd - 
-pwd
-ls
+cd - Changes your current directory. Type cd .. to move up one level, or cd ~ to return to your home folder.
+pwd - : Prints the absolute path of your current working directory.
+ls - : Lists all files and folders in your current directory. Use ls -la to view hidden files and detailed permissions.
