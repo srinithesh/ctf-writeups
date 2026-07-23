@@ -2,6 +2,7 @@ File System Navigation
 cd - Changes your current directory. Type cd .. to move up one level, or cd ~ to return to your home folder.
 pwd - : Prints the absolute path of your current working directory.
 ls - : Lists all files and folders in your current directory. Use ls -la to view hidden files and detailed permissions.
+
 File & Directory Management
 mkdir: Creates a brand new directory.
 touch: Creates a blank text file or updates the timestamp of an existing file.
@@ -9,3 +10,8 @@ cp: Copies files or directories. Use cp -r to copy folders recursively.
 mv: Moves or renames files and directories.
 rm: Deletes a file permanently. Use rm -rf to forcefully delete an entire folder and its contents.
 nano / vim: Opens text editors directly within your terminal window to modify script files.
+
+File Operations
+touch: Creates a blank file or updates timestamps.
+cp: Copies files or entire folders to destinations.
+mv: Moves files or renames them on the fly.
